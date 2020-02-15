@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528756480724",
+    "firebase_url": "https://depanzel.firebaseio.com",
+    "project_id": "depanzel",
+    "storage_bucket": "depanzel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528756480724:android:33e7e34b607ae64110f941",
+        "android_client_info": {
+          "package_name": "com.example.depanzel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528756480724-3vvod53c854qtospmel9j5corog35ag8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.depanzel",
+            "certificate_hash": "548060ef6c186c9041717c4800e447937e91e1d1"
+          }
+        },
+        {
+          "client_id": "528756480724-kd662evreudpml7tuij34m0h8a3u05ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq7Xg5ULNDjdxrJYU_1j3VrmBrS-RTVr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528756480724-kd662evreudpml7tuij34m0h8a3u05ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
